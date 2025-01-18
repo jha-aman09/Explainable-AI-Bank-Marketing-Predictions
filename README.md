@@ -15,9 +15,9 @@ You can run the code interactively on Google Colab by accessing the notebook [he
 
 ## 👨‍💻 Author
 
-This project was created by **[Your Name]**. Feel free to reach out for any questions or suggestions!  
-- GitHub: [Your GitHub Profile](https://github.com/jha-aman09)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aman--jha)
+This project was created by **[Aman Jha]**. Feel free to reach out for any questions or suggestions!  
+- GitHub: [Aman Jha](https://github.com/jha-aman09)  
+- LinkedIn: [Aman Jha](https://www.linkedin.com/in/aman--jha)
 
 ## 📈 Key Features
 
